@@ -17,14 +17,13 @@ You can find the Github Repo here.
 
 * [Versions](#versions)
 
-
-
 ## Quick start
 
 Quick start options:
 
-- `npm i material-dashboard-react`
 - Clone the repo: `git clone https://github.com/voidp34r/app.git`.
+- Run: `yarn install`
+- Run: `yarn start`
 
 
 ## Documentation
